@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Symbola;
+    src: url(Symbola-AjYx.ttf);
+}
+
+a {
+    font-family: Symbola;
+}
+
+h1 {
+    font-family: Symbola;
+}
+
+h2 {
+    font-family: Symbola;
+}
+
+button {
+    font-family: Symbola;
+}
